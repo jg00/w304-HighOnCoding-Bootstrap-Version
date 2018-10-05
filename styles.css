@@ -1,0 +1,22 @@
+body {
+  font-family: "Overlock", cursive;
+}
+
+.custom-paragraph {
+  font-size: 0.8em;
+}
+
+.custom-div-border {
+  border: 1px solid white;
+}
+
+.custom-div-background {
+  background-color: #F8F9F9;
+}
+
+.container {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+/*# sourceMappingURL=styles.css.map */
